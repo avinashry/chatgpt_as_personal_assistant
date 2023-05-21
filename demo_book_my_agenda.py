@@ -119,7 +119,7 @@ tools = [
 template = """You are personal assistant of avinash singh. you need to book event on behalf of him.
 you need to first check possible free slot between 8 am  to 5 pm using tool GetEvent. 
 do not book meeting if you do not have email id, time, date in Question. 
-don't make any assumption if you do not have user email, time and date then do not book meeting and ask user.
+don't make any assumption if you do not have user email, time and date then do not book meeting and ask user for same.
 Always say date in formate [yyyy-mm-dd]  and end time should be starttime+30min
 After booking say thanks and good bye 
 You have access to the following tools. use only this tool for Action:
