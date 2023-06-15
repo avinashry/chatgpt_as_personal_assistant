@@ -1,4 +1,4 @@
-# chatgpt_as_personal_assistant
+# chatgpt as personal assistant (Generative AI with action reaction)
 ChatGPT as PA that can book your agenda
 The appearance of ChatGPT as different role play like Personal Assistant, Instructor, Finance advisor marks a significant step forward in leveraging AI to enhance productivity and efficiency.
 
